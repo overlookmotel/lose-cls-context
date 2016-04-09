@@ -1,0 +1,46 @@
+{
+  "name": "lose-cls-context",
+  "version": "0.0.0",
+  "description": "Function to lose CLS context",
+  "main": "./lib/",
+  "author": {
+    "name": "Overlook Motel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overlookmotel/lose-cls-context.git"
+  },
+  "bugs": {
+    "url": "https://github.com/overlookmotel/lose-cls-context/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0",
+    "jshint": "^2.9.1",
+    "istanbul": "^0.4.3",
+    "coveralls": "^2.11.9"
+  },
+  "keywords": [
+    "lose",
+    "CLS",
+    "context",
+    "continuation local storage",
+    "continuation-local-storage",
+    "continuation",
+    "local",
+    "storage",
+    "thread",
+    "chain"
+  ],
+  "scripts": {
+    "test": "make test",
+    "cover": "make cover"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
