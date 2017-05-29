@@ -1,5 +1,7 @@
 # lose-cls-context.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/lose-cls-context.svg)](https://greenkeeper.io/)
+
 # Function to lose CLS context
 
 ## Current status
